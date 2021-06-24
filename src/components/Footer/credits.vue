@@ -1,14 +1,14 @@
 <template>
-    <div>
-        Created by <a href="https://github.com/hitesh-coder">HITESH</a> -
-        devChallenges.io
-    </div>
+  <div>
+    Created by <a href="https://github.com/hitesh-coder">HITESH</a> -
+    devChallenges.io
+  </div>
 </template>
 
 <script>
 export default {
-    name:'credits'
-}
+  name: "credits",
+};
 </script>
 
 <style lang="scss" scoped>

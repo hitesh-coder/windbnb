@@ -14,20 +14,20 @@ export default {
 </script>
 
 <style lang="scss">
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: Montserrat;
 }
 
-#app{
+#app {
   padding: 5% 10%;
 }
 
-@media screen and (max-width:1100px) {
-    #app{
-      padding: 5vw;
-    }
+@media screen and (max-width: 1100px) {
+  #app {
+    padding: 5vw;
+  }
 }
 </style>
