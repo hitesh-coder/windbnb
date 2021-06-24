@@ -23,7 +23,7 @@ import search from "./Header/search.vue";
 import Content from "./Main/content.vue";
 
 export default {
-  name: "HelloWorld",
+  name: "MainPage",
   components: { search, Content, credits },
   data() {
     return {
